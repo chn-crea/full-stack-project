@@ -1,0 +1,36 @@
+# Web Framework
+Flask==2.3.3
+Flask-SQLAlchemy==3.0.5
+Flask-CORS==4.0.0
+
+# Database
+psycopg2-binary==2.9.7
+SQLAlchemy==2.0.21
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# API & Serialization
+requests==2.31.0
+Werkzeug==2.3.7
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
+
+# Validation
+marshmallow==3.19.0
+
+# Logging & Monitoring
+Gunicorn==21.2.0
+
+# Development & Testing
+pytest==7.4.0
+pytest-cov==4.1.0
+Black==23.7.0
+Flake8==6.0.0
+Flask-Testing==0.8.1
+
+# Optional: API Documentation
+Flasky-RESTful==0.3.1
+Swagger-UI-Flask==0.2.7
